@@ -1,1 +1,1 @@
-Git is a distributed system for creating and organising files, and merging changes to those files.
+Git is a distributed system for multiple users to create and organise files, and merge changes to those files.

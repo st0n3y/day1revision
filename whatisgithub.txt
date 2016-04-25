@@ -1,1 +1,1 @@
-Github is a social network for collaborating on Git projects.
+Github is a social network for collaboration on Git projects.
